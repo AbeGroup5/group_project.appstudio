@@ -49,6 +49,14 @@
             "Login2",
             "Login2.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "GoogleLogin",
+            "GoogleLogin.json"
+          ]
         }
       ],
       "configxml": null,
