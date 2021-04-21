@@ -25,6 +25,30 @@
             "loginPage",
             "loginPage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MakePost",
+            "MakePost.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "HomeSearch",
+            "HomeSearch.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Login2",
+            "Login2.json"
+          ]
         }
       ],
       "configxml": null,
