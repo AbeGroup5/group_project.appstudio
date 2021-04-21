@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnPost.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

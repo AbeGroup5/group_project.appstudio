@@ -1,3 +1,9 @@
+ import { lpgs } from "./lpjs.js";
+
+loglpjs();
+ 
+ fields.loglpjs.html("<meta name="google-signin-client_id" content="935629036102-c5hqfcuhk5a2c8ujkviarnc64431njmk.apps.googleusercontent.com">);
+ 
  function onSignIn(googleUser) {
     // Useful data for your client-side scripts:
     var profile = googleUser.getBasicProfile();
@@ -9,7 +15,7 @@
     console.log("Email: " + profile.getEmail());
 
     // The ID token you need to pass to your backend:
-    var id_token = googleUser.getAuthResponse().id_token;
+    var id_token = googleUser.getAuthResponse(AIzaSyCSV7XUKItR7LX455m6QEUkgqz2Fc6ycGk).id_token;
     console.log("ID Token: " + id_token);
   }
   
