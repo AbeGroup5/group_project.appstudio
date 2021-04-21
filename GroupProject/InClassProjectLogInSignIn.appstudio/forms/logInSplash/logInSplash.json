@@ -1,0 +1,110 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "userNameInput.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "PasswordInput.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "PasswordForgot.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "SignInButton.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "GoogleButtonSignIn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "WelcomeLabel.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "Line1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "logInSplash",
+        "Elements",
+        "CreateAccountLabel.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "logInSplash",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
