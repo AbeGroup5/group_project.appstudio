@@ -57,6 +57,14 @@
             "GoogleLogin",
             "GoogleLogin.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "UserCreation",
+            "UserCreation.json"
+          ]
         }
       ],
       "configxml": null,

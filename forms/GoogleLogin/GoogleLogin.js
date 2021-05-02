@@ -1,4 +1,4 @@
- import { lpgs } from "./lpjs.js";
+/* import { lpgs } from "./lpjs.js";
 
 loglpjs();
  
@@ -26,4 +26,4 @@ loglpjs();
     });
   }
   
-  
+  */
