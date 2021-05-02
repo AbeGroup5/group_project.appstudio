@@ -57,6 +57,22 @@
             "GoogleLogin",
             "GoogleLogin.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "filtResults",
+            "filtResults.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "PostMade",
+            "PostMade.json"
+          ]
         }
       ],
       "configxml": null,
@@ -78,7 +94,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "loginPage",
+      "firstform": "MakePost",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
