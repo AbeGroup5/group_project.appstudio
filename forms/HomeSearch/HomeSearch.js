@@ -1,4 +1,4 @@
-Hamburger1.onclick=function(s){
+ /* Hamburger1.onclick=function(s){
 if (typeof(s) == "object") 
     return
 switch(s) {
@@ -20,4 +20,4 @@ let prof = iptLastName.value
 btnSubmit.onclick=function(){
   //connect to sql database with parameters
   //take us to post page, nit yet created
-}
+
