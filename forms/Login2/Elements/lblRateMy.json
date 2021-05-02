@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblRateMy",
   "labelStyle": "text",
-  "left": 51,
+  "left": 25,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 206,
+  "top": 29,
   "value": "Rate My Professor Login:",
   "width": "auto"
 }
