@@ -1,4 +1,4 @@
-/*
+
 Hamburger2.onclick=function(){
   if (typeof(s) == "object") 
     return
@@ -21,5 +21,4 @@ btnPost.onclick=function(){
 }
 
 // add to database call a fuction that connects to both, can connect to the google login form and use as proxy 
-// addToDatabase() onclick for function button 
-*/
+

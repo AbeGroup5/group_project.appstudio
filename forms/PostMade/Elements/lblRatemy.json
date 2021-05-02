@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblRateMy",
+  "id": "lblRatemy",
   "labelStyle": "text",
-  "left": 25,
+  "left": 56,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 29,
-  "value": "Rate My Professor Login:",
+  "top": 18,
+  "value": "Rate My Professor",
   "width": "auto"
 }

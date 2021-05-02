@@ -62,8 +62,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "UserCreation",
-            "UserCreation.json"
+
           ]
         }
       ],
@@ -86,7 +85,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Login2",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
